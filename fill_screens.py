@@ -6,7 +6,7 @@ import shutil
 import sys
 import sqlite3
 
-SCREENS = 5
+SCREENS = 7
 COLUMNS = 4
 ROWS = 4
 CELL_SIZE = 110
